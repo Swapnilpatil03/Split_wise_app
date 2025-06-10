@@ -2,7 +2,7 @@
 
 This is a fullstack expense-splitting web app, inspired by Splitwise, built using Node.js, Express, MongoDB, and Bootstrap frontend.
 
-Live URL 👉 [https://split-wise-app.onrender.com/](https://split-wise-app.onrender.com/) *(Replace with your actual Render URL)*
+Live URL 👉 [https://split-wise-app.onrender.com/](https://split-wise-app.onrender.com/) 
 
 ---
 
