@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  line-height: 1.6;
+}
+h1 {
+  color: #222;
+}
+ul {
+  padding-left: 20px;
+}
+a {
+  display: inline-block;
+  margin-top: 20px;
+}
