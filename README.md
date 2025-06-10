@@ -2,7 +2,7 @@
 
 This is a fullstack expense-splitting web app, inspired by Splitwise, built using Node.js, Express, MongoDB, and Bootstrap frontend.
 
-Live URL 👉 [https://your-split-app.onrender.com](https://your-split-app.onrender.com) *(Replace with your actual Render URL)*
+Live URL 👉 [https://split-wise-app.onrender.com/](https://split-wise-app.onrender.com/) *(Replace with your actual Render URL)*
 
 ---
 
@@ -91,15 +91,10 @@ Visit: [http://localhost:5000](http://localhost:5000)
 ---
 
 ## ✍️ Author
-**Swapnil Patil** – Final Year BE Student, MIT/VIT Pune
+**Swapnil Patil** – Final Year BE Student, VIT Pune
 
 ---
 
-## 🏁 Final Notes
 
-✅ Full CRUD on expenses
-✅ Balanced logic using simple math
-✅ 100% submission ready for backend assignment with UI
-✅ Includes Postman, README, Render live link
 
 ---
