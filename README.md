@@ -33,7 +33,7 @@ Live URL 👉 [https://split-wise-app.onrender.com/](https://split-wise-app.onre
 ## 📬 Postman Collection
 
 Click to open and test all API routes:  
-👉 [Postman Collection (Public)](https://swapnil-4477190.postman.co/workspace/Swapnil's-Workspace~279d3537-d925-4dd6-8482-cc3320b73181/collection/45766117-b10d32b2-ce05-47cb-ad8f-afec5624e437?action=share&creator=45766117)
+👉 [Postman Collection (Public)](https://gist.github.com/Swapnilpatil03/525a292329af8f79cc1d121d175a448b)
 
 ---
 
